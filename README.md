@@ -1,4 +1,6 @@
 # Getting Started
+Twimba replica for Scrimba as a starter package.
+
 Install the dependencies and run the project
 ```
 npm install
